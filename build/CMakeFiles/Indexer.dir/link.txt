@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Indexer.dir/Postlist.cpp.o CMakeFiles/Indexer.dir/Vocabulary.cpp.o CMakeFiles/Indexer.dir/Indexer.cpp.o CMakeFiles/Indexer.dir/MainIndexer.cpp.o  -o Indexer -rdynamic 

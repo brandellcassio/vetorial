@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Reader.dir/Postlist.cpp.o CMakeFiles/Reader.dir/Vocabulary.cpp.o CMakeFiles/Reader.dir/VectorModel.cpp.o CMakeFiles/Reader.dir/Query.cpp.o CMakeFiles/Reader.dir/MainReader.cpp.o  -o Reader -rdynamic 
