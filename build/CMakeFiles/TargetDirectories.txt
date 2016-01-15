@@ -1,2 +1,0 @@
-/home/brandell/Documentos/UFAM/CC/4° Período/RI/vetorial/build/CMakeFiles/Indexer.dir
-/home/brandell/Documentos/UFAM/CC/4° Período/RI/vetorial/build/CMakeFiles/Reader.dir
